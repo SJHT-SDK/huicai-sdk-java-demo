@@ -1,0 +1,14 @@
+server:
+  port: 24112
+spring:
+  application:
+    name: huicai-sdk-demo
+
+##世纪恒通荟采开放平台SDK配置参数
+sjht:
+  huicai:
+    serverUrl: https://testdj.cyzl.com
+    appId: 0hbp***************bu3d
+    appSecret: 904e9d4*******************d566288d360
+    encryptSecretKey: L3h6c********************************E0lHDL
+    logWitch: true
